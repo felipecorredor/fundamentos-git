@@ -4,7 +4,9 @@
 const Ricardo = () => {
   return (
     <div>
-      <h1>Hola Ricardo</h1>
+      <button>Boton 1</button>
+      <button>Boton 2</button>
+      <button>Boton 3</button>
     </div>
   );
 };
